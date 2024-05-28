@@ -1,0 +1,22 @@
+ * {
+   box-sizing: border-box;
+   font-family: sans-serif;
+ }
+
+ body {
+   margin: 0 auto;
+   padding: 1rem;
+   color: black;
+   background-color: white;
+   max-width: 600px;
+ }
+
+ h1 {
+   font-weight: 600;
+   font-size: 1.5rem;
+ }
+
+ h2 {
+   font-weight: 600;
+   font-size: 1.2rem;
+ }
